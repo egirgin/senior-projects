@@ -1,7 +1,7 @@
 # Senior and Master
 
 # Notes
-* [Cmpe493 Term Project](https://github.com/egirgin/cmpe493-term-project)
-* [Cmpe451 Project](https://github.com/bounswe/bounswe2020group4) (Android)
+* [Cmpe493 Information Retrieval Term Project](https://github.com/egirgin/cmpe493-term-project)
+* [Cmpe451 SWE Project](https://github.com/bounswe/bounswe2020group4) (Android)
 * [Graduation Project](https://github.com/egirgin/latent-mix)
-* [Cmpe597 Project](https://github.com/egirgin/saliencySimBA)
+* [Cmpe597 DL Project](https://github.com/egirgin/saliencySimBA)
